@@ -1,8 +1,8 @@
-# Housing Affodability Tool
+# Housing Affordability Tool
 
 A data science-driven application that helps users discover affordable, rising-value neighborhoods based on housing trends, commute times, and crime rates.
 
-**Curent Focus Area:** Washing DC Metro Area
+**Curent Focus Area:** Washington DC Metro Area
 
 ## Features
 - Rent vs. Buy affodability toggle
